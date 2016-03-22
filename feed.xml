@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hyperion Solar Energy</title>
+    <description>We are Hyperion Solar Energy, providing you the best in solar energy products and services to make your transition to the renewable energy future easy.
+</description>
+    <link>http://sakoh.github.io/hyperion-solar//</link>
+    <atom:link href="http://sakoh.github.io/hyperion-solar//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 22 Mar 2016 01:15:08 -0700</pubDate>
+    <lastBuildDate>Tue, 22 Mar 2016 01:15:08 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+  </channel>
+</rss>
